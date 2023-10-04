@@ -1,8 +1,5 @@
 ## Overview
-
-Spring Boot
 The Spring Boot System is designed to manage customer data.Additionally, the system includes an Order Calculator utility to calculate total purchase amounts with discounts.
-
 ### Build Project
 
 Build the project using Maven:
