@@ -1,7 +1,7 @@
 ## Overview
 
-ZEST CRM System
-The ZEST CRM System is designed to manage customer data.Additionally, the system includes an Order Calculator utility to calculate total purchase amounts with discounts.
+Spring Boot
+The Spring Boot System is designed to manage customer data.Additionally, the system includes an Order Calculator utility to calculate total purchase amounts with discounts.
 
 ### Build Project
 
